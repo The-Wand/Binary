@@ -1,0 +1,4 @@
+framework module Wand {
+  header "Wand-Swift.h"
+  requires objc
+}
